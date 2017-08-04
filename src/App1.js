@@ -4,6 +4,7 @@ import {Link, Route} from "react-router-dom";
 import  Home from "./Home";
 import  Members from "./Members";
 import  MemberDetail from "./MemberDetail";
+
  class App1 extends React.Component {
     render() {
         return ( <div>
